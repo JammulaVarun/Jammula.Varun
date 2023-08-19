@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jammula.Varun</h1>
+<h1 align="center">Hi 👋, I'm Jammula.Varun ✌😎</h1>
 <h3 align="center">Python Developer || Full Stack developer || Backend developer || Django Developer || Software Developer || Freelancer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jammulavarun&label=Profile%20views&color=0e75b6&style=flat" alt="jammulavarun" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jammulavarun" alt="jammulavarun" /></a> </p>
+
+- 🌱 I’m currently learning **JavaScript, React, Oracle**
+
+- 💬 Ask me about **Python, Django\Flask, PostgreSQL**
 
 - 📫 How to reach me **jammulavarun8@gmail.com**
 
